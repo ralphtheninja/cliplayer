@@ -1,6 +1,6 @@
 {
   "name": "cliplayer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Dead simple cli remote control wrapping pactl and xdotool",
   "main": "index.js",
   "scripts": {
