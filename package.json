@@ -6,6 +6,9 @@
   "scripts": {
     "test": "standard"
   },
+  "bin": {
+    "cliplayer": "index.js"
+  },
   "keywords": [
     "cli",
     "player",
