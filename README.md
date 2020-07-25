@@ -31,6 +31,8 @@ And hit some of the following keys:
 
 Abort execution with `ctrl + c`.
 
+**NOTE!** When running `xdotool` it's important to set the `DISPLAY` environment so `xdotool` knows which display to target. It defaults to `:0.0`.
+
 ## License
 
 MIT
